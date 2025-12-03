@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\bin\Debug\net10.0\SintaxeCSharp.exe
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\bin\Debug\net10.0\SintaxeCSharp.deps.json
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\bin\Debug\net10.0\SintaxeCSharp.runtimeconfig.json
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\bin\Debug\net10.0\SintaxeCSharp.dll
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\bin\Debug\net10.0\SintaxeCSharp.pdb
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.AssemblyInfo.cs
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.dll
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\refint\SintaxeCSharp.dll
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.pdb
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.genruntimeconfig.cache
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\ref\SintaxeCSharp.dll
