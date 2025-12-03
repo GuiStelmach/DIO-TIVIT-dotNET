@@ -3,6 +3,7 @@
 // camelCase padrão para variáveis.
 Pessoa p = new Pessoa();
 
+
 p.Nome = "Guilherme";
 p.Idade = 29;
 p.Apresentar();
@@ -12,3 +13,16 @@ Pessoa pessoaFisica = new Pessoa();
 pessoaFisica.Nome = "Eduardo";
 pessoaFisica.Idade = 20;
 pessoaFisica.Apresentar();
+
+TiposVariaveis tipos = new TiposVariaveis();
+tipos.apresentacao = "Olá, seja bem-vindo";
+tipos.quantidade = 1;
+tipos.altura = 1.80;
+tipos.preco = 5.90M;
+//Alterando o conteúdo da variavel que era True para False
+tipos.condicao = false;
+//Adicionando 5 dias na dataAtual
+tipos.dataAtual = DateTime.Now.AddDays(5);
+tipos.ExibirTiposVariaveis();
+//Formatando a data para exibir no formato brasileiro
+Console.WriteLine(tipos.dataAtual.ToString("dd/MM/yyyy HH:mm"));

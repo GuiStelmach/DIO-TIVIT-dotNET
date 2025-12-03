@@ -12,3 +12,4 @@ C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\refint
 C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.pdb
 C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.genruntimeconfig.cache
 C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\ref\SintaxeCSharp.dll
+C:\Users\guilh\Documents\DIO-TIVIT-dotNET\SintaxeCSharp\obj\Debug\net10.0\SintaxeCSharp.sourcelink.json
