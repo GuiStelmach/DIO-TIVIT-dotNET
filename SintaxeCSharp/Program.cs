@@ -26,3 +26,8 @@ tipos.dataAtual = DateTime.Now.AddDays(5);
 tipos.ExibirTiposVariaveis();
 //Formatando a data para exibir no formato brasileiro
 Console.WriteLine(tipos.dataAtual.ToString("dd/MM/yyyy HH:mm"));
+
+Login login = new Login();
+login.Usuario = "admin";
+login.Senha = "1243";
+login.Conectar();
