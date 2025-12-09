@@ -31,3 +31,10 @@ Login login = new Login();
 login.Usuario = "admin";
 login.Senha = "1243";
 login.Conectar();
+
+Casting casting = new Casting();
+casting.Executar();
+Conversao conversao = new Conversao();
+conversao.Executar();
+ConversaoSegura conversaoSegura = new ConversaoSegura();
+conversaoSegura.Converter();
