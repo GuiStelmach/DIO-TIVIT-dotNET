@@ -38,3 +38,13 @@ Conversao conversao = new Conversao();
 conversao.Executar();
 ConversaoSegura conversaoSegura = new ConversaoSegura();
 conversaoSegura.Converter();
+
+Estoque estoque = new Estoque();
+estoque.Produto = "Notebook";
+estoque.Preco = 2500.00;
+estoque.QuantidadeDisponivel = 10;
+estoque.ComprarProduto(1);
+
+TesteVogal testeVogal = new TesteVogal();
+testeVogal.Letra = Console.ReadLine() ?? string.Empty;
+testeVogal.EhVogal();
