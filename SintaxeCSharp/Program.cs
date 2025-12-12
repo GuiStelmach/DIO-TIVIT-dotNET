@@ -62,3 +62,18 @@
 // calc.Cosseno(30);
 // calc.Tangente(30);
 
+// RepeticaoComFor tabuada = new RepeticaoComFor();
+// tabuada.Multiplicar(7);
+// tabuada.Subtrair(7);
+// tabuada.Somar(7);
+// tabuada.Dividir(7);
+
+// RepeticaoComWhile repeticaoWhile = new RepeticaoComWhile();
+// repeticaoWhile.Executar(5);
+
+// RepeticaoComDoWhile repeticaoDoWhile = new RepeticaoComDoWhile();
+// repeticaoDoWhile.Executar();
+
+// Manu menu = new Manu();
+// menu.ExibirMenu();
+
