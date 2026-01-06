@@ -74,6 +74,6 @@
 // RepeticaoComDoWhile repeticaoDoWhile = new RepeticaoComDoWhile();
 // repeticaoDoWhile.Executar();
 
-// Manu menu = new Manu();
+// Menu menu = new Menu();
 // menu.ExibirMenu();
 

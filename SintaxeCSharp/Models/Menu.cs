@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace SintaxeCSharp.Models
 {
-    public class Manu
+    public class Menu
     {
         public string Opcao { get; set; } = string.Empty;
         public bool menuOn = true;
